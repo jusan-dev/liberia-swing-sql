@@ -10,7 +10,7 @@ Aplicaciones Web (DAW).
 - Inicio de sesión de usuarios validado contra la base de datos
 - Consulta de productos (libros) filtrada por categoría
 - Alta de nuevos productos asociados a una categoría
-
+  
 ## Tecnologías
 
 Java · Swing · MySQL / MariaDB · JDBC · NetBeans (Ant) · Javadoc
@@ -36,19 +36,18 @@ datos, las tablas y unos datos de ejemplo.
 ## Cómo ejecutarlo
 
 ### Requisitos
-- JDK 17 o superior (o el que uses en NetBeans)
+- JDK 21 o superior
 - MySQL o MariaDB en `localhost:3306` (probado con MariaDB 10.4)
 - NetBeans
 - [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)
 
 ### Pasos
-1. Importa `bd_sanchez_proyecto.sql` en tu servidor (el propio script crea la base
+1. Importa `bd_sanchez_proyecto.sql` al servidor (el propio script crea la base
    de datos `bd_sanchez_proyecto`).
-2. Si tu usuario o contraseña de MySQL son distintos de `root` / vacía, cámbialos
-   en `src/daos/ConexionBBDD.java`.
+2. El controlador de MySQL usa `root` / vacía de usuario y contraseña.
 3. Abre el proyecto en NetBeans y añade el `.jar` de MySQL Connector/J a las
    librerías del proyecto.
-4. Haz *Clean and Build* (necesario para que se carguen bien los iconos) y ejecuta
+4. Haz *Clean and Build* para que la aplicación funcione correctamente y ejecuta
    `app.MainProyecto`.
 
 **Usuario de prueba:** `admin` / `1234`
@@ -67,6 +66,3 @@ datos, las tablas y unos datos de ejemplo.
 ## Autor
 
 Juan Sánchez Santiago
-# liberia-swing-sql
-# liberia-swing-sql
-# liberia-swing-sql
