@@ -1,3 +1,1 @@
-Al principio, cuando pasaba el proyecto a mi portátil tenía que darle a 'Clean and Build' para que el proyecto reconociera bien los iconos y no diera error. También le tenía que señalar
-la librería de MySQL. Lo primero seguramente sea un error de mi NetBeans, pero lo 
-comento por si acaso.
+
