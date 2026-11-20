@@ -54,8 +54,10 @@ datos, las tablas y unos datos de ejemplo.
 
 ## Capturas
 
-<!-- Añade 2-3 imágenes en una carpeta docs/ y enlázalas así: -->
-<!-- ![Login](docs/login.png) -->
+[Login](docs/login.png)
+[Menu](docs/menu.png)
+[Alta](docs/alta.png)
+[Consulta](docs/consulta.png)
 
 ## Posibles mejoras
 
