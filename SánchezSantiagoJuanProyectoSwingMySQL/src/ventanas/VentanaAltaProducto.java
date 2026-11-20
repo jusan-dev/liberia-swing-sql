@@ -106,7 +106,7 @@ public class VentanaAltaProducto extends javax.swing.JFrame {
                             .addComponent(jTextoNombre)
                             .addComponent(jTextoPrecio)
                             .addComponent(jTextoStock)
-                            .addComponent(jComboCategoria, 0, 215, Short.MAX_VALUE)))
+                            .addComponent(jComboCategoria, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
                     .addComponent(jLabel5)
                     .addGroup(layout.createSequentialGroup()
                         .addGap(82, 82, 82)

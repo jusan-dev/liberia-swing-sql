@@ -45,7 +45,7 @@
                           <Component id="jTextoNombre" max="32767" attributes="0"/>
                           <Component id="jTextoPrecio" alignment="0" max="32767" attributes="0"/>
                           <Component id="jTextoStock" alignment="0" max="32767" attributes="0"/>
-                          <Component id="jComboCategoria" alignment="0" pref="215" max="32767" attributes="0"/>
+                          <Component id="jComboCategoria" alignment="0" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                   <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>

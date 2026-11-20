@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"app"},{"l":"controladores"},{"l":"daos"},{"l":"modelos"},{"l":"ventanas"}];updateSearchResults();
