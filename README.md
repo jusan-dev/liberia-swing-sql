@@ -54,10 +54,17 @@ datos, las tablas y unos datos de ejemplo.
 
 ## Capturas
 
-[Login](docs/login.png)
-[Menu](docs/menu.png)
-[Alta](docs/alta.png)
-[Consulta](docs/consulta.png)
+### Login
+<img src="docs/login.png">
+
+### Menu principal
+<img src="docs/menu.png">
+
+### Alta de libros
+<img src="docs/alta.png">
+
+### Consulta de los libros
+<img src="docs/consulta.png">
 
 ## Posibles mejoras
 
